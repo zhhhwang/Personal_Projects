@@ -10,13 +10,8 @@ csl: ecology.csl
 
 --------------
 
-## About us
+## About me
 
-We are statistics master students from the University of Michigan, Ann Arbor, and we are passionate about data science. The playground is a place to exhibit our advantures. Projects are taken from our course projects, research projects and many other thing we found interesting. 
-
-The following is our introduction. :)
-
-#### Zhihao Huang
 
 * I am Zhihao (Daniel), a first year master student of statistics at the University of Michigan, Ann Arbor. Prior to that, I got my bachelor's degree in the School of Mathematical Science at Nankai University. [Want to know more? Here is my CV](Zhihao_Huang_Resume.pdf). 
 
@@ -27,15 +22,6 @@ The following is our introduction. :)
     + E-mail: zhhhwang@umich.edu 
 
 
-#### Shunji Wei
-
-* First year Master in Applied Statistics Program in University of Michigan with solid mathematical and statistical background. Finished the B.S degree in Statistics in Nanjing University in 2017. [Resume](Shunji_Resume.pdf)
-
-* Interests: workout, swimming, basketball, skiing, cooking and movies.
-
-* Contact information:
-    + Phone: (+1) 734-272-7201
-    + E-mail: shunjiw@umich.edu 
 
 ----------
 
