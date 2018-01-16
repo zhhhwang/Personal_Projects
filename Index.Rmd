@@ -1,0 +1,48 @@
+---
+title: "Data Science Projects"
+author: "Author: Zhihao Huang, Yuhan Li, Shunji Wei, Shengchen Hao"
+output:
+  html_document:
+    theme: flatly
+    toc: yes
+csl: ecology.csl
+---
+
+--------------
+
+## About us
+
+We are statistics master students from the University of Michigan, Ann Arbor, and we are passionate about data science. The playground is a place to exhibit our advantures. Projects are taken from our course projects, research projects and many other thing we found interesting. 
+
+The following is our introduction. :)
+
+#### Zhihao Huang
+
+* I am Zhihao (Daniel), a first year master student of statistics at the University of Michigan, Ann Arbor. Prior to that, I got my bachelor's degree in the School of Mathematical Science at Nankai University. [Want to know more? Here is my CV](Zhihao_Huang_Resume.pdf). 
+
+* My exertise can be summarized with three statements: I use statistical theories to build models for data-oriented problems, I obtain data solutions with programming and I help people understand outcomes with appropriate presentations. 
+
+* Contact information:
+    + Phone: (+1) 734-263-5854
+    + E-mail: zhhhwang@umich.edu 
+
+
+#### Shunji Wei
+
+* First year Master in Applied Statistics Program in University of Michigan with solid mathematical and statistical background. Finished the B.S degree in Statistics in Nanjing University in 2017. [Resume](Shunji_Resume.pdf)
+
+* Interests: workout, swimming, basketball, skiing, cooking and movies.
+
+* Contact information:
+    + Phone: (+1) 734-272-7201
+    + E-mail: shunjiw@umich.edu 
+
+----------
+
+## Project Lists {.tabset}
+
+### Course Projects
+
+1. [STATS 506 Course Project (Logistics Regression on Titanic Data)](STATS506_Group_Project.html). [(Code)](STATS506_Course_Project.Rmd)
+
+### Work and Research Projects
