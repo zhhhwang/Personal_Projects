@@ -28,11 +28,18 @@ csl: ecology.csl
 
 ## Project Lists {.tabset}
 
-### Course Projects
+### Practice Projects
 
-1. [STATS 506 Course Project (Logistics Regression on Titanic Data)](STATS506_Course_Project/STATS506_Group_Project.html). [(Code)](STATS506_Course_Project/STATS506_Course_Project.Rmd)
+1. [Logistics Regression on Titanic Data (Course Projects)](STATS506_Course_Project/STATS506_Group_Project.html). [(Code)](STATS506_Course_Project/STATS506_Course_Project.Rmd)
 
-### Work Projects
+2. [Predictive Model of Titanic Data]()
 
-### Research Projects
+
+### Work & Research Projects
+
+1. [Unsupervised Feature Selection with Mixture of Noise and Missing Data]()
+
+2. [Telematics Data Mining]()
+
+3. [Data Visualization Platorm]()
 
