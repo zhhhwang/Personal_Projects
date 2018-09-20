@@ -33,7 +33,7 @@ This website is a repository of my past / ongoing data science projects. They co
 
 1. [Logistics Regression on Titanic Data (Course Projects)](STATS506_Course_Project/STATS506_Group_Project.html). [(Code)](STATS506_Course_Project/STATS506_Course_Project.Rmd)
 
-2. [Predictive Model of Titanic Data]()
+2. [Random Forest on Titanic Data]()
 
 3. [Unsupervised Feature Selection with Mixture of Noise and Missing Data]()
 
@@ -41,5 +41,12 @@ This website is a repository of my past / ongoing data science projects. They co
 
 5. [Sales Data Visualization Platorm]()
 
-6. [New York City Taxi Fee Prediction]()
+6. [Impact of Underwriter Touch on Sales]()
+
+## Ongoing Projects
+
+1. [Handwritting Digit Recognotion]()
+
+2. [New York City Taxi Fee Prediction]()
+
 
