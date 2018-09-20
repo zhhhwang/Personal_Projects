@@ -12,8 +12,7 @@ csl: ecology.csl
 
 ## About me
 
-
-* I am Zhihao (Daniel), a first year master student of statistics at the University of Michigan, Ann Arbor. Prior to that, I got my bachelor's degree in the School of Mathematical Science at Nankai University. [Want to know more? Here is my CV](Zhihao_Huang_Resume.pdf). 
+* I am Zhihao, a second year master student of statistics at the University of Michigan, Ann Arbor. Prior to that, I got my bachelor's degree in the School of Mathematical Science at Nankai University. [Want to know more? Here is my CV](Zhihao_Huang_Resume.pdf). 
 
 * My exertises can be summarized with three words:   
 1. **Statistics**: I use statistical theories to build models for data-oriented problems.
@@ -23,23 +22,23 @@ csl: ecology.csl
 * Contact information:
     + Phone: (+1) 734-263-5854
     + E-mail: zhhhwang@umich.edu 
+    
+## About this website
+
+This website is a repository of my past / ongoing data science projects. They come from different backgrounds, including internships, academia and Kaggle competition. Some may come with a comprehensive analysis, while some may be in a form of description due to the confidentiality of the data and results.       
 
 ----------
 
-## Project Lists {.tabset}
-
-### Practice Projects
+## Project Lists
 
 1. [Logistics Regression on Titanic Data (Course Projects)](STATS506_Course_Project/STATS506_Group_Project.html). [(Code)](STATS506_Course_Project/STATS506_Course_Project.Rmd)
 
 2. [Predictive Model of Titanic Data]()
 
 
-### Work & Research Projects
+3. [Unsupervised Feature Selection with Mixture of Noise and Missing Data]()
 
-1. [Unsupervised Feature Selection with Mixture of Noise and Missing Data]()
+4. [Telematics Data Mining]()
 
-2. [Telematics Data Mining]()
-
-3. [Data Visualization Platorm]()
+5. [Data Visualization Platorm]()
 
