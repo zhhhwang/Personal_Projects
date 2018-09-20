@@ -35,10 +35,11 @@ This website is a repository of my past / ongoing data science projects. They co
 
 2. [Predictive Model of Titanic Data]()
 
-
 3. [Unsupervised Feature Selection with Mixture of Noise and Missing Data]()
 
 4. [Telematics Data Mining]()
 
-5. [Data Visualization Platorm]()
+5. [Sales Data Visualization Platorm]()
+
+6. [New York City Taxi Fee Prediction]()
 
